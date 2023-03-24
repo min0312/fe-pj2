@@ -19,7 +19,7 @@ function Page1() {
 
   return (
     <div className="Page1">
-      <h1>페이지1</h1>
+      <h1>경주 맛집 리스트를 찾아보자!</h1>
       <Button onClick={handleClick} />
     </div>
   );
